@@ -1,0 +1,10 @@
+Django==4.2.29
+djangorestframework==3.16.1
+drf-yasg==1.21.10
+django-cors-headers==4.9.0
+mysqlclient==2.2.8
+python-decouple==3.8
+Pillow==12.1.1
+asgiref==3.11.1
+sqlparse==0.5.5
+tzdata==2025.3
